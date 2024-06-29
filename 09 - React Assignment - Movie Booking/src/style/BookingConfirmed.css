@@ -1,0 +1,47 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.confirmation-page {
+    width: 100%;
+    max-width: 430px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 30px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+.confirmation-page h2 {
+    margin: 15px;
+    font-size: 24px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.confirmation-page img {
+    margin: 10px 0;
+    width: 100%;
+    height: 50px;
+}
+
+.confirmation-page p {
+    margin: 5px 0;
+    font-size: 18px;
+    color: #464545;
+}
+
+.confirmation-page .message {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.confirmation-page .message p {
+    font-size: 16px;
+    color: green;
+}

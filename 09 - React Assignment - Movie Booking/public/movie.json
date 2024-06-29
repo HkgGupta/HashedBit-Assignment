@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "title": "3 Idiots",
+        "year": 2009,
+        "genre": "Comedy, Drama",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
+        "rating": 8.4
+    },
+    {
+        "id": 2,
+        "title": "Bhediya",
+        "year": 2022,
+        "genre": "Horror, Comedy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/2/29/Bhediya_film_poster.jpg",
+        "rating": 6.7
+    },
+    {
+        "id": 3,
+        "title": "Jawan",
+        "year": 2023,
+        "genre": "Action, Thriller",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/3/39/Jawan_film_poster.jpg",
+        "rating": 7.0
+    },
+    {
+        "id": 4,
+        "title": "Uri: The Surgical Strike",
+        "year": 2019,
+        "genre": "Action, War",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/URI_-_New_poster.jpg",
+        "rating": 8.2
+    },
+    {
+        "id": 5,
+        "title": "12th Fail",
+        "year": 2023,
+        "genre": "Drama",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/12th_Fail_poster.jpeg",
+        "rating": 8.9
+    },
+    {
+        "id": 6,
+        "title": "Taare Zameen Par",
+        "year": 2007,
+        "genre": "Drama, Family",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Taare_Zameen_Par_Like_Stars_on_Earth_poster.png",
+        "rating": 8.3
+    },
+    {
+        "id": 7,
+        "title": "Bajrangi Bhaijaan",
+        "year": 2015,
+        "genre": "Action, Adventure, Comedy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/d/dd/Bajrangi_Bhaijaan_Poster.jpg",
+        "rating": 8.1
+    },
+    {
+        "id": 8,
+        "title": "Chak De! India",
+        "year": 2007,
+        "genre": "Drama, Family, Sport",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Chak_De%21_India.jpg",
+        "rating": 8.1
+    },
+    {
+        "id": 9,
+        "title": "PK",
+        "year": 2014,
+        "genre": "Comedy, Drama, Fantasy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c3/PK_poster.jpg",
+        "rating": 8.1
+    },
+    {
+        "id": 10,
+        "title": "Super 30",
+        "year": 2019,
+        "genre": "Comedy, Drama",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/2/29/Super_30_The_Film.jpg",
+        "rating": 7.9
+    },
+    {
+        "id": 11,
+        "title": "Queen",
+        "year": 2013,
+        "genre": "Adventure, Comedy, Drama",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/4/45/QueenMoviePoster7thMarch.jpg",
+        "rating": 8.1
+    },
+    {
+        "id": 12,
+        "title": "Zindagi Na Milegi Dobara",
+        "year": 2011,
+        "genre": "Comedy, Drama, Musical",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/1/17/Zindagi_Na_Milegi_Dobara.jpg",
+        "rating": 8.2
+    },
+    {
+        "id": 13,
+        "title": "Dil Chahta Hai",
+        "year": 2001,
+        "genre": "Comedy, Drama, Romance",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/d/db/Dil_Chahta_Hai.jpg",
+        "rating": 8.1
+    },
+    {
+        "id": 14,
+        "title": "Kahaani",
+        "year": 2012,
+        "genre": "Mystery, Thriller",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Kahaani_poster.jpg",
+        "rating": 8.1
+    },
+    {
+        "id": 15,
+        "title": "Gully Boy",
+        "year": 2019,
+        "genre": "Drama, Music",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/0/07/Gully_Boy_poster.jpg",
+        "rating": 7.9
+    },
+    {
+        "id": 16,
+        "title": "Dangal",
+        "year": 2016,
+        "genre": "Action, Sports, Drama",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/9/99/Dangal_Poster.jpg",
+        "rating": 8.3
+    }
+]

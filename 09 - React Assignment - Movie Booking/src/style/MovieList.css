@@ -1,0 +1,16 @@
+
+h1 {
+    text-align: center;
+    margin: 24px 0;
+    font-size: 36px;
+    text-decoration: underline;
+}
+
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    margin: 10px 0px;
+    padding: 10px 20px;
+}
