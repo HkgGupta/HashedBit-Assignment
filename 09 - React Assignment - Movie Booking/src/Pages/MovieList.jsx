@@ -8,7 +8,7 @@ const MovieList = () => {
     const [movieList, setMovieList] = useState([]);
 
     useEffect(() => {
-        fetch('/movie.json')
+        fetch('/movie.json') // Movie details are fetched from public/movie.json file
             .then(res => res.json())
             .then(data => setMovieList(data))
             .catch(error => console.error('Error fetching movie data:', error));
